@@ -1,5 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gnanaprakash%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Building%20Scalable%20Infrastructure&descAlignY=62&descSize=16" alt="Header Banner" />
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900">
+    <defs>
+      <linearGradient id="hg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#0d1117"/>
+        <stop offset="50%" style="stop-color:#161b22"/>
+        <stop offset="100%" style="stop-color:#0d1117"/>
+      </linearGradient>
+      <linearGradient id="wg" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#70a5fd;stop-opacity:0.9"/>
+        <stop offset="50%" style="stop-color:#bf91f3;stop-opacity:0.9"/>
+        <stop offset="100%" style="stop-color:#38bdae;stop-opacity:0.9"/>
+      </linearGradient>
+    </defs>
+    <rect width="900" height="180" fill="url(#hg)"/>
+    <path d="M0,100 C150,60 300,140 450,90 C600,40 750,120 900,80 L900,180 L0,180 Z" fill="url(#wg)" opacity="0.15"/>
+    <path d="M0,120 C200,80 400,150 600,100 C750,65 850,110 900,95 L900,180 L0,180 Z" fill="url(#wg)" opacity="0.25"/>
+    <path d="M0,140 C100,120 250,160 450,130 C650,100 800,145 900,125 L900,180 L0,180 Z" fill="url(#wg)" opacity="0.5"/>
+    <text x="450" y="78" font-family="Segoe UI,Arial,sans-serif" font-size="36" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2">Gnanaprakash G</text>
+    <text x="450" y="112" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#8b949e" text-anchor="middle" letter-spacing="1">Cloud &amp; DevOps Engineer · Building Scalable Infrastructure</text>
+  </svg>
 </p>
 
 <p align="center">
@@ -98,9 +117,9 @@ const gnanaprakash = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GGprakash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GGprakash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGprakash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GGprakash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
 </div>
 
 ---
@@ -124,7 +143,7 @@ const gnanaprakash = {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GGprakash&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=GGprakash&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -226,7 +245,19 @@ const gnanaprakash = {
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="Footer Banner" />
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900">
+    <defs>
+      <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#70a5fd;stop-opacity:0.9"/>
+        <stop offset="50%" style="stop-color:#bf91f3;stop-opacity:0.9"/>
+        <stop offset="100%" style="stop-color:#38bdae;stop-opacity:0.9"/>
+      </linearGradient>
+    </defs>
+    <rect width="900" height="120" fill="#0d1117"/>
+    <path d="M0,40 C150,10 300,70 450,30 C600,0 750,50 900,20 L900,0 L0,0 Z" fill="url(#fg)" opacity="0.15"/>
+    <path d="M0,55 C200,20 400,65 600,35 C750,15 850,45 900,30 L900,0 L0,0 Z" fill="url(#fg)" opacity="0.25"/>
+    <path d="M0,70 C100,45 250,75 450,50 C650,25 800,60 900,42 L900,0 L0,0 Z" fill="url(#fg)" opacity="0.5"/>
+  </svg>
 </p>
 
 <p align="center">
